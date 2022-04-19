@@ -1,0 +1,9 @@
+name: "Deploy Docusaurus"
+description: "Builds and syncs Docusaurus to either AWS S3, Azure, Vercel, or Netify"
+author: brockneedscoffee
+runs:
+  using: docker
+  image: Dockerfile
+branding:
+  icon: upload-cloud
+  color: gray-dark

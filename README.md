@@ -1,1 +1,1 @@
-# Deploy Docusuaura GitHub Action
+# Deploy Docusuaurs GitHub Action
